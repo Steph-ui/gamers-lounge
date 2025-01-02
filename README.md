@@ -15,6 +15,6 @@ Boost your gaming experience today with Gamers Lounge Chat Integration – the u
 
 Technical Overview: Gamers Lounge Chat Integration
 
-The Gamers Lounge Chat Integration was built using a combination of PHP, JavaScript, and HTML. Notably, this plugin does not rely on a traditional database management system. Instead, it leverages the FirePort Content PHP function to manage and store data.
+The Gamers Lounge Chat Integration was built using a combination of PHP, JavaScript, and HTML & CSS. Notably, this plugin does not rely on a traditional database management system. Instead, it leverages the FirePort Content PHP function to manage and store data.
 
-This innovative approach enables seamless communication between registered users, while maintaining a lightweight and efficient architecture."
+This innovative approach enables seamless communication between registered users while maintaining a lightweight and efficient architecture."
